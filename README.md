@@ -15,3 +15,4 @@
 |문제|소스코드|
 |:---:|:---:|
 |[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|[Python3](https://github.com/wlsdnjs0707/practice_programmers/blob/main/level2_81302.py)|
+|[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[Python3](https://github.com/wlsdnjs0707/practice_programmers/blob/main/level2_17677.py)|
