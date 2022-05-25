@@ -18,3 +18,4 @@
 |[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[Python3](https://github.com/wlsdnjs0707/practice_programmers/blob/main/level2_17677.py)|
 |[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|[Python3](https://github.com/wlsdnjs0707/practice_programmers/blob/main/level2_64065.py)|
 |[[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)|[Python3](https://github.com/wlsdnjs0707/practice_programmers/blob/main/level2_17680.py)|
+|[[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)|[Python3](https://github.com/wlsdnjs0707/practice_programmers/blob/main/level2_17679.py)|
