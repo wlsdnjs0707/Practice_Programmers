@@ -19,3 +19,4 @@
 |[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|[Python3](https://github.com/wlsdnjs0707/practice_programmers/blob/main/level2/level2_64065.py)|
 |[[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)|[Python3](https://github.com/wlsdnjs0707/practice_programmers/blob/main/level2/level2_17680.py)|
 |[[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)|[Python3](https://github.com/wlsdnjs0707/practice_programmers/blob/main/level2/level2_17679.py)|
+|[주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)|[Python3](https://github.com/wlsdnjs0707/practice_programmers/blob/main/level2/level2_92341.py)|
